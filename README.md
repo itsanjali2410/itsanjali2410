@@ -1,5 +1,5 @@
 <a href="#">
-    <img width="70%" height="50%" align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZjZzgwNTk5dHlwMnFhMDljanhuNzFuM3Jma2h4Mm1laWJnYzlzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/px9v45I39CcxyXPqEy/giphy.gif" />
+    <img width="50%" height="30%" align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZjZzgwNTk5dHlwMnFhMDljanhuNzFuM3Jma2h4Mm1laWJnYzlzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/px9v45I39CcxyXPqEy/giphy.gif" />
 </a>
 
 
@@ -8,8 +8,8 @@
 
 ## 🙋 About Me
 
-- 🔭 I’m currently working on **MERN Projects**
-- 🌱 I’m currently learning **Full Stack development and Data Structures and Algorithms**
+- 🔭 I’m currently working on **Data Science Projects**
+- 🌱 I’m currently learning **Machine learning and Programming also Their Tech**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 👨‍💻 All of my projects are available at **My Portfolio**
 - 📫 How to reach me **itsanjali2410@gmail.com**
@@ -53,15 +53,15 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/itsanjali2410/github-readme-stats"><img alt="Anjali's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anjali9002&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/anjali9002/github-readme-stats"><img alt="Anjali's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali9002&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/itsanjali2410/github-readme-stats"><img alt="Anjali's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsanjali2410&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/itsanjali2410/github-readme-stats"><img alt="Anjali's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsanjali2410&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
 
-[![Anjali's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=itsanjali&theme=tokyo-night)](https://github.com/anjali9002/github-readme-activity-graph)
+[![Anjali's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=itsanjali&theme=tokyo-night)](https://github.com/itsanjali2410/github-readme-activity-graph)
 <br/>
 <br/>
 
