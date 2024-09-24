@@ -62,7 +62,7 @@
 <br/>
 <br/>
 
-[![Anjali's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=itsanjali&theme=tokyo-night)](https://github.com/itsanjali2410/github-readme-activity-graph)
+[![Anjali's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=itsanjali2410&theme=tokyo-night)](https://github.com/itsanjali2410/github-readme-activity-graph)
 <br/>
 <br/>
 
