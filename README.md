@@ -4,12 +4,12 @@
 
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anjali Gupta</h1>
-<h3 align="center">I'm a passionate Software Developer Enthusiast from India.</h3>
+<h3 align="center">I'm a passionate Data Scientist, AI/ML Enthusiast from India.</h3>
 
 ## 🙋 About Me
 
 - 🔭 I’m currently working on **Data Science Projects**
-- 🌱 I’m currently learning **Machine learning and Programming also Their Tech**
+- 🌱 I’m currently learning **Machine learning**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 👨‍💻 All of my projects are available at **My Portfolio**
 - 📫 How to reach me **itsanjali2410@gmail.com**
