@@ -1,23 +1,16 @@
-Here is the exact Markdown code, formatted perfectly for a GitHub Profile
-README.md.
 
-I replaced the greeting with a stronger hook, brought back the visual badges
-(shields) which look amazing on GitHub, and used blockquotes and emojis to make
-it highly readable and aesthetic.
 
-Copy and paste everything inside the box below directly into your GitHub README:
-
-## product manager × ai engineer ⚡
+## Hi!! ⚡
 
 > i build ai products that solve actual user problems instead of just sounding cool on twitter. iit madras alum.
 > 
 > i write the specs and define the roadmap, but because of my full-stack background, i also know exactly how the rag pipeline works under the hood. no technical translation lost.
 
-### 🛠 proof of work
+### things I have built so far
 
-- 🎯 **[fleek ai](https://fleekai.org)** — owned the 0-to-1 product workflow for an ai sales engine. figured out how to turn a single url input into a ready-to-approve, multi-model (openai/claude/gemini) campaign across linkedin, whatsapp & outlook.
-- ✈️ **[tripstars & tripbox crm](https://tripboxcrm.com/)** — led product for a travel booking ecosystem. replaced messy manual onboarding with a custom crm. made the call to inject a context-aware ai assistant to kill hallucinations and cut token costs.
-- 🏢 **[bidsai](https://bidsai.org)** — scoped and delivered an enterprise rfp platform. mapped user dashboards, managed frontend delivery, and shipped ai workflows to resolve cross-regional data conflicts.
+- **[fleek ai](https://fleekai.org)** : owned the 0-to-1 product workflow for an ai sales engine. figured out how to turn a single url input into a ready-to-approve, multi-model (openai/claude/gemini) campaign across linkedin, whatsapp & outlook.
+- **[tripstars & tripbox crm](https://tripboxcrm.com/)** : led product for a travel booking ecosystem. replaced messy manual onboarding with a custom crm. made the call to inject a context-aware ai assistant to kill hallucinations and cut token costs.
+- **[bidsai](https://bidsai.org)** — scoped and delivered an enterprise rfp platform. mapped user dashboards, managed frontend delivery, and shipped ai workflows to resolve cross-regional data conflicts.
 - 💎 **[jeweltech ai](https://jeweltech.ai)** — shaped core ai modules for a niche b2b enterprise saas. designed business dashboards that actually made sense for daily jewellery operations.
 
 ### 🏆 achievements
