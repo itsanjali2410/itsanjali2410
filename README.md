@@ -1,12 +1,6 @@
 # Hi, I'm Anjali Gupta
 
-I build products that solve real business problems, not just add more features.
-
-I enjoy figuring out what's slowing people down, simplifying complicated workflows, and turning ideas into products people actually want to use.
-
-With a background in full-stack engineering and product development, I work across strategy, user experience, and technical execution.
-
-Currently pursuing a BS in Data Science and Programming at IIT Madras.
+I build products that solve real business problems, not just add more features. I enjoy figuring out what's slowing people down, simplifying complicated workflows, and turning ideas into products people actually want to use. With a background in full-stack engineering and product development, I work across strategy, user experience, and technical execution.
 
 ## What I've built
 
@@ -29,9 +23,7 @@ Currently pursuing a BS in Data Science and Programming at IIT Madras.
 ## What I'm interested in
 
 Building products from **0 to 1 and beyond**, where product decisions are backed by technical understanding and real user needs.
-
 I like working with people who challenge assumptions, move fast, and care more about solving the right problem than adding another feature.
-
 If you're building something meaningful, I'd love to hear about it.
 
 [LinkedIn](https://linkedin.com/in/anjalig9002) | [Email](mailto:itsanjali2410@gmail.com)
